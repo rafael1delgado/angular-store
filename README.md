@@ -1,4 +1,4 @@
-# Angulr Store
+# Angular Store
 
 ## APP WEB
 
